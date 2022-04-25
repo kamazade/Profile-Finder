@@ -1,1 +1,3 @@
 # Profile-Finder
+Usernames: Bret,Antonette,Samantha... 
+usernames from => https://jsonplaceholder.typicode.com/users
